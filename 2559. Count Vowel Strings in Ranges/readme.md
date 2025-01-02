@@ -15,6 +15,8 @@ For each query [L, R], calculate the number of valid words in the range [L, R] u
 </br>
 Count=Pre[R+1]−Pre[L]</br>
 Store the result for each query in the ANS array.</br>
-</br></br></br></br></br></br></br>
+Time Complexity: O(n+q) where n is the size of the words array and q is the number of queries.</br></br>
+Space Complexity: O(n+q), due to prefix sum array and the output storage 
+</br></br></br></br></br>
 </br></br>
 ![image](<Screenshot 2025-01-02 220737.png>)
