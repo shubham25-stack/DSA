@@ -18,7 +18,7 @@ Process the last character ('1'): right = 4.
 </br>
 Final score = best + right = 1 + 4 = 5.
 </br>
-
+.
 Complexity Analysis
 </br>
 Time Complexity:
